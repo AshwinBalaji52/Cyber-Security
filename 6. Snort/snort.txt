@@ -1,0 +1,1 @@
+snort -i 5 -c C:\Snort\etc\snort.conf -A console
